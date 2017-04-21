@@ -18,6 +18,7 @@ Here are a few resources to help you right off the bat:
   * Click the README.md file. 
   * Click the pencil icon to edit.
   * Use this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and make edits.  Add text, delete text (though I'd recommend not changing these instructions), [add emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/). Have fun! :alien:
+  
 * Save and publish your changes
   * Scroll down and complete the information in the "Commit changes" box. 
   * Add a note about what you changed. This is an important part of version control — it allows other people (and even your future self!) to know what changes you made and why. 
